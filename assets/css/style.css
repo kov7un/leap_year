@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.container {
+  margin: 0 200px;
+  width: 80vw;
+  height: 100vh;
+}
